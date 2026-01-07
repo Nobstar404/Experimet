@@ -1,0 +1,5 @@
+#start nol
+0000
+
+#start satu
+1111
